@@ -2,10 +2,13 @@
  * Created by plato on 2017-04-20.
  */
 
+<<<<<<< HEAD
 // zmiana patryka
     //dodaje znapshota
     //dfadafsdasfsadfasdf
     // dodaje cos po tym jak Przemek usunal
+=======
+>>>>>>> origin/master
 public class Main {
 
     public static void main(String[] args){
