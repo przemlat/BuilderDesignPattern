@@ -4,6 +4,8 @@
 
 // zmiana patryka
     //dodaje znapshota
+    //dfadafsdasfsadfasdf
+    // dodaje cos po tym jak Przemek usunal
 public class Main {
 
     public static void main(String[] args){
